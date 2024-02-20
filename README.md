@@ -4,6 +4,7 @@
 - 📫 How to reach me stasik_sokolov1899@mail.ru
 
 [![codewars](https://www.codewars.com/users/sokol_yasnyi/badges/small)](https://www.codewars.com/users/sokol_yasnyi) 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sokolyasnyi)](https://github.com/KnlnKS/leetcode-stats)
 ![](https://komarev.com/ghpvc/?username=sokolyasnyi)
 
 <!---
